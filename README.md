@@ -24,7 +24,7 @@ I focus on developing web applications that enhance operational efficiency and u
 ### 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,figma,mysql,git,github,vscode,postman,flutter,rapidminer" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,figma,mysql,git,github,vscode,postman,flutter,python,rapidminer" />
 </p>
 
 ---
