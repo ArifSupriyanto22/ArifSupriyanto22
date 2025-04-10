@@ -7,7 +7,7 @@
 
 ---
 
-I am a student majoring in Information Systems at Bina Sarana Informatics University with a strong passion for developing systems based on business technology, particularly in the areas of ERP, data science, and software development. With a solid foundation in JavaScript and TypeScript, along with an in-depth understanding of various frontend libraries and frameworks, I build digital solutions that are efficient, scalable, and user-friendly.
+I am a student majoring in Information Systems at Universitas Bina Sarana Informatika with a strong passion for developing systems based on business technology, particularly in the areas of ERP, data science, and software development. With a solid foundation in JavaScript and TypeScript, along with an in-depth understanding of various frontend libraries and frameworks, I build digital solutions that are efficient, scalable, and user-friendly.
 
 I focus on developing web applications that enhance operational efficiency and user experience, especially within enterprise contexts and business needs. My agility in learning new things and adaptability in dynamic environments allow me to collaborate easily within teams. I believe that technology is not just a tool, but a strategy to create positive change in the business world.
 
