@@ -29,6 +29,17 @@ I focus on developing web applications that enhance operational efficiency and u
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| **ERP** | Odoo | PGNMAS real estate database integration to odoo ERP |
+| **Company Profile** | JavaScript, HTML, CSS, Bootstrap | user-friendly company profile website to enhance the company’s branding and online presence |
+
+> 📝 More on [company profile](https://waytourtravel.com)
+
+---
+
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifsupriyanto22&show_icons=true&theme=tokyonight)
 
